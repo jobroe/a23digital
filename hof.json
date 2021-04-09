@@ -216,7 +216,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"player.vimeo.com\/video\/28245082"
+                 "value":"https:\/\/player.vimeo.com\/video\/28245082"
                 }],
          "type":"tilelayer",
          "visible":true,
