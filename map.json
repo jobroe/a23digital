@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jobroe.github.io\/a23digital\/pages\/scribble.html"
+                 "value":"https:\/\/a23digital.github.io\/a23digital\/pages\/scribble.html"
                 }],
          "type":"tilelayer",
          "visible":true,
